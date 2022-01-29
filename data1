@@ -1,4 +1,4 @@
-participant <dbl>,condition <dbl>,response_time
+participant,condition,response_time
 1,condition_a,984
 2,condition_a,1005
 3,condition_a,979
